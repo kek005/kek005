@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kek005
+- 💞️I'm QA Engineer in manual Testing.
+- 🌱I'm currently learning automation.
 - 👀 I’m interested in Blockchain, AI, cloud computing and mobile app development
-- 🌱 I’m currently learning Mobile app development
-- 💞️ I’m looking to collaborate on Mobile app development.
 - 📫 How to reach me by email or send message through github
 
 <!---
