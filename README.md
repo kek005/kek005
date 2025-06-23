@@ -9,8 +9,11 @@ I don’t just talk about AI. I build it. Below are some of my live AI MVPs. You
 🧠 BestAI – AI Evaluation Framework
 https://bestai-kek005.streamlit.app/
 
-🏠 VisionFlow AI – AI Onboarding Agent for Utility Companies
-https://visionflow-ai.streamlit.app/
+🏠 VisionFlow for PECO — Utility Document Validator – AI Onboarding Agent for Utility Companies
+https://peco-utility-app.streamlit.app/
+
+📄 Document Ananyzer AI — Multi-Document Understanding – AI System that can analyze and understand any document, generate and send you all important point about it.
+https://document-analyzer-ai.streamlit.app/
 
 📄 AI RFP Assistant – Proposal Drafting Agent
 📌 Resume Screener AI – Smart Candidate Review Agent
