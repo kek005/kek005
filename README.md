@@ -33,4 +33,4 @@ adaptive AI interview coach. Live systems, not mockups — and I can tell when t
 Contract / remote **AI QA · LLM evaluation · agent-quality** work — building evals, designing rubrics,
 red-teaming agents, writing test harnesses. Also open to AI engineering roles.
 
-📫 **jesugnon2014@gmail.com**
+📫 **ancetreseul@gmail.com**
