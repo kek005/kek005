@@ -1,31 +1,36 @@
-I’m building the future of intelligent automation.
+# Jesugnon Keke
 
-With 8+ years of experience in software engineering, QA automation, and Python development, I now focus on designing intelligent agents and AI-powered systems that can reason, plan, and execute complex workflows — just like a human would.
+**QA-minded AI engineer — I break AI systems, then make them reliable.**
 
-I don’t just talk about AI. I build it. Below are some of my live AI MVPs. You can try them now:
+8+ years in software engineering with a deep focus on **QA, test automation, and Python** — now
+specialized in **evaluating and hardening LLM / agent systems**: finding the edge cases, catching the
+shortcuts, and proving the thing actually works.
 
-🚀 My Live AI MVPs
+`ISTQB AI Testing certified` · `Python` · `LLM evaluation & agent QA` · `Streamlit / FastAPI`
 
-🧠 BestAI – AI Evaluation Framework
-https://bestai-kek005.streamlit.app/
+---
 
-🏠 VisionFlow for PECO — Utility Document Validator – AI Onboarding Agent for Utility Companies
-https://peco-utility-app.streamlit.app/
+### 🧪 Flagship — LLM Agent Eval Suite
+A reproducible evaluation harness that grades captured model outputs and catches how they fail —
+**hallucination, format drift, prompt-injection, unsafe out-of-scope answers, and silent shortcuts.**
+Deterministic + rubric-graded, runs in CI with no API keys. Every case documents the real failure it
+guards against, and the suite validates its own logic against ground truth.
+→ **[github.com/kek005/ai-qa-evals-portfolio](https://github.com/kek005/ai-qa-evals-portfolio)**
 
-📄 Document Ananyzer AI — Multi-Document Understanding – AI System that can analyze and understand any document, generate and send you all important point about it.
-https://document-analyzer-ai.streamlit.app/
+> This is the work these roles hire for: probe edge cases, design rubrics, keep eval signals honest.
 
-📄 AI RFP Assistant – Proposal Drafting Agent
-📌 Resume Screener AI – Smart Candidate Review Agent
-💬 Insurance Support Bot (Multilingual)
-📑 Smart Compliance Document Checker
-🧪 QA Test Case Generator (LLM-powered)
-🎤 AI Interview Coach (Adaptive)
-💡 Startup Idea Validator
-📦 Amazon Product Scout (Data-Driven)
+### 🚀 Live AI systems (try them)
+- 🧠 **BestAI — AI Evaluation Framework** — https://bestai-kek005.streamlit.app/
+- 🏠 **VisionFlow (PECO) — Utility Document Validator** — https://peco-utility-app.streamlit.app/
+- 📄 **Document Analyzer AI — multi-document understanding** — https://document-analyzer-ai.streamlit.app/
 
-Each product solves a real-world problem using LLMs, reasoning models, or document understanding agents. These aren't mockups — they’re live proof that AI can autonomously understand, decide, and act.
+Plus: RFP proposal agent, résumé-screener agent, multilingual support bot, LLM QA test-case generator,
+adaptive AI interview coach. Live systems, not mockups — and I can tell when they're wrong.
 
-I’m open to partnerships, AI consulting, or engineering roles where I can push the boundaries of intelligent agents and real-world AI applications.
+---
 
-Let’s build the future.
+### 💼 Open to
+Contract / remote **AI QA · LLM evaluation · agent-quality** work — building evals, designing rubrics,
+red-teaming agents, writing test harnesses. Also open to AI engineering roles.
+
+📫 **jesugnon2014@gmail.com**
